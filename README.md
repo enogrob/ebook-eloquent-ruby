@@ -16,10 +16,10 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
-[ ] Foreword xix
-[ ] Preface xxi
-[ ] Acknowledgments xxv
-[ ] About the Author xxvii
+[x] Foreword xix
+[x] Preface xxi
+[x] Acknowledgments xxv
+[x] About the Author xxvii
 
 PART I: The Basics 1
 
