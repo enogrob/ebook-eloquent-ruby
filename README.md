@@ -24,15 +24,15 @@ Learn everything you need to about the subject of this `eBook` project.
 PART I: The Basics 1
 
 Chapter 1: Write Code That Looks Like Ruby 3
-[ ] The Very Basic Basics 4
-[ ] Go Easy on the Comments 6
-[ ] Camels for Classes, Snakes Everywhere Else 8
-[ ] Parentheses Are Optional but Are Occasionally Forbidden 9
-[ ] Folding Up Those Lines 10
-[ ] Folding Up Those Code Blocks 11
-[ ] Staying Out of Trouble 12
-[ ] In the Wild 13
-[ ] Wrapping Up 15
+[x] The Very Basic Basics 4
+[x] Go Easy on the Comments 6
+[x] Camels for Classes, Snakes Everywhere Else 8
+[x] Parentheses Are Optional but Are Occasionally Forbidden 9
+[x] Folding Up Those Lines 10
+[x] Folding Up Those Code Blocks 11
+[x] Staying Out of Trouble 12
+[x] In the Wild 13
+[x] Wrapping Up 15
 
 Chapter 2: Choose the Right Control Structure 17
 [ ] If, Unless, While, and Until 17
