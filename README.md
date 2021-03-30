@@ -35,13 +35,13 @@ Chapter 1: Write Code That Looks Like Ruby 3
 [x] Wrapping Up 15
 
 Chapter 2: Choose the Right Control Structure 17
-[ ] If, Unless, While, and Until 17
-[ ] Use the Modifier Forms Where Appropriate 19
-[ ] Use each, Not for 20
-[ ] A Case of Programming Logic 21
-[ ] Staying Out of Trouble 23
-[ ] In the Wild 25
-[ ] Wrapping Up 27
+[x] If, Unless, While, and Until 17
+[x] Use the Modifier Forms Where Appropriate 19
+[x] Use each, Not for 20
+[x] A Case of Programming Logic 21
+[x] Staying Out of Trouble 23
+[x] In the Wild 25
+[x] Wrapping Up 27
 
 Chapter 3: Take Advantage of Ruby’s Smart Collections 29
 [ ] Literal Shortcuts 29
