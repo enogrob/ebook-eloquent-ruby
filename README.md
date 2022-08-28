@@ -1,6 +1,6 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-project/master)
 ```
-Roberto Nogueira  
+Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
