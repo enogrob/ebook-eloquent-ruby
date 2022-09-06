@@ -44,14 +44,14 @@ Chapter 2: Choose the Right Control Structure 17
 [x] Wrapping Up 27
 
 Chapter 3: Take Advantage of Ruby’s Smart Collections 29
-[ ] Literal Shortcuts 29
-[ ] Instant Arrays and Hashes from Method Calls 30
-[ ] Running Through Your Collection 33
-[ ] Beware the Bang! 36
-[ ] Rely on the Order of Your Hashes 38
-[ ] In the Wild 38
-[ ] Staying Out of Trouble 40
-[ ] Wrapping Up 42
+[x] Literal Shortcuts 29
+[x] Instant Arrays and Hashes from Method Calls 30
+[x] Running Through Your Collection 33
+[x] Beware the Bang! 36
+[x] Rely on the Order of Your Hashes 38
+[x] In the Wild 38
+[x] Staying Out of Trouble 40
+[x] Wrapping Up 42
 
 Chapter 4: Take Advantage of Ruby’s Smart Strings 43
 [ ] Coming Up with a String 44
