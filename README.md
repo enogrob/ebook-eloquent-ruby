@@ -54,7 +54,7 @@ Chapter 3: Take Advantage of Ruby’s Smart Collections 29
 [x] Wrapping Up 42
 
 Chapter 4: Take Advantage of Ruby’s Smart Strings 43
-[ ] Coming Up with a String 44
+[x] Coming Up with a String 44
 [ ] Another API to Master 47
 [ ] The String: A Place for Your Lines, Characters, and Bytes 49
 [ ] In the Wild 50
